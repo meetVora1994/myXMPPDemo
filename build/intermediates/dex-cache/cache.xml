@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/meet/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-sasl-provided/4.1.0/74422a92b7bba8eb633ceecdb017530b67451731/smack-sasl-provided-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="74422a92b7bba8eb633ceecdb017530b67451731">
+        <dex dex="/home/meet/project/XMPP/XMPPApp/build/intermediates/pre-dexed/debug/smack-sasl-provided-4.1.0-3a147ca307e5b15ad12303b12daa14c9a8edd1d0.jar" />
+    </item>
+    <item
+        jar="/home/meet/.gradle/caches/modules-2/files-2.1/de.measite.minidns/minidns/0.1.7/993582d1455b93a5723d2af4b39d8679735b3550/minidns-0.1.7.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="/home/meet/project/XMPP/XMPPApp/build/intermediates/pre-dexed/debug/minidns-0.1.7-c5c0897d8df04ef29676e851fd29ee4be0861ff4.jar" />
+    </item>
+    <item
+        jar="/home/meet/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-resolver-minidns/4.1.0/5b8783270e55f49937492b23df34993c4e51c8d7/smack-resolver-minidns-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5b8783270e55f49937492b23df34993c4e51c8d7">
+        <dex dex="/home/meet/project/XMPP/XMPPApp/build/intermediates/pre-dexed/debug/smack-resolver-minidns-4.1.0-a55af8f00864932e159df8f202b60c379ba7d1eb.jar" />
+    </item>
+    <item
+        jar="/home/meet/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-android/4.1.0/3da1ad907fe8eb0db80471b8837d3e51690fe13c/smack-android-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3da1ad907fe8eb0db80471b8837d3e51690fe13c">
+        <dex dex="/home/meet/project/XMPP/XMPPApp/build/intermediates/pre-dexed/debug/smack-android-4.1.0-3c6906dd1d2b20b9a033149e5ba7ae70c3e5843d.jar" />
+    </item>
+
+</items>
