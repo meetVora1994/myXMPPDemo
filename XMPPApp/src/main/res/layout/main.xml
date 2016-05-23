@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
               android:orientation="vertical"
-              android:layout_width="fill_parent"
-              android:layout_height="fill_parent"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
         >
     <Button android:id="@+id/setup"
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Setup">
     </Button>
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
                   android:orientation="horizontal"
-                  android:layout_width="fill_parent"
+                  android:layout_width="match_parent"
                   android:layout_height="wrap_content"
             >
         <TextView
@@ -21,7 +21,7 @@
                 android:minWidth="70dp"
                 />
         <EditText android:id="@+id/recipient"
-                  android:layout_width="wrap_content"
+                  android:layout_width="match_parent"
                   android:layout_height="wrap_content"
                   android:singleLine="true"
                   android:textSize="16sp"
@@ -37,7 +37,7 @@
               android:scrollbars="horizontal"
             />
     <EditText android:id="@+id/sendText"
-              android:layout_width="fill_parent"
+              android:layout_width="match_parent"
               android:layout_height="wrap_content"
               android:singleLine="true"
               android:textSize="16sp"
@@ -45,7 +45,7 @@
               android:capitalize="none"
               android:scrollHorizontally="true"/>
     <Button android:id="@+id/send"
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Send">
     </Button>

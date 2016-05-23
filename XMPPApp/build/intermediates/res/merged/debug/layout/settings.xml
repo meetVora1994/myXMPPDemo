@@ -52,7 +52,7 @@
                   android:layout_height="wrap_content"
                   android:singleLine="true"
                   android:textSize="16sp"
-                  android:text="example.com"
+                  android:text="meet-desktop"
                   android:autoText="false"
                   android:minWidth="250dp"
                   android:capitalize="none"

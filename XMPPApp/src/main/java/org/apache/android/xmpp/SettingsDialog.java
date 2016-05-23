@@ -57,10 +57,8 @@ public class SettingsDialog extends Dialog implements android.view.View.OnClickL
         AbstractXMPPConnection connection = new XMPPTCPConnection(connConfig);
 
         try {
-            Log.i("myTag", "[SettingsDialog] Connecting...");
             connection.connect();
             Log.i("myTag", "[SettingsDialog] Connected to " + connection.getHost());
-            Log.i("myTag", "[SettingsDialog] LoggingIn...");
             connection.login();
         } catch (SmackException | IOException | XMPPException e) {
             Log.e("myTag", "[SettingsDialog] Failed to connect to " + connection.getHost());

@@ -10,17 +10,13 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 
-import org.jivesoftware.smack.PacketListener;
 import org.jivesoftware.smack.SmackException;
 import org.jivesoftware.smack.StanzaListener;
 import org.jivesoftware.smack.XMPPConnection;
 import org.jivesoftware.smack.filter.MessageTypeFilter;
-import org.jivesoftware.smack.filter.PacketFilter;
 import org.jivesoftware.smack.filter.StanzaFilter;
 import org.jivesoftware.smack.packet.Message;
-import org.jivesoftware.smack.packet.Packet;
 import org.jivesoftware.smack.packet.Stanza;
-import org.jivesoftware.smack.util.StringUtils;
 
 import java.util.ArrayList;
 
@@ -38,8 +34,8 @@ public class XMPPClient extends Activity {
      * Called with the activity is first created.
      */
     @Override
-    public void onCreate(Bundle icicle) {
-        super.onCreate(icicle);
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
         Log.i("myTag", "onCreate called");
         setContentView(R.layout.main);
 
@@ -122,9 +118,7 @@ public class XMPPClient extends Activity {
     }
 
     private void setListAdapter() {
-        ArrayAdapter<String> adapter = new ArrayAdapter<>(this,
-                R.layout.multi_line_list_item,
-                messages);
+        ArrayAdapter<String> adapter = new ArrayAdapter<>(this, R.layout.multi_line_list_item, messages);
         mList.setAdapter(adapter);
     }
 }
