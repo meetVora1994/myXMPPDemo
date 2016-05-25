@@ -58,15 +58,15 @@ public class SettingsDialog extends Dialog implements android.view.View.OnClickL
 
         try {
             connection.connect();
-            Log.i("myTag", "[SettingsDialog] Connected to " + connection.getHost());
+            Log.i("myTAG", "[SettingsDialog] Connected to " + connection.getHost());
             connection.login();
         } catch (SmackException | IOException | XMPPException e) {
-            Log.e("myTag", "[SettingsDialog] Failed to connect to " + connection.getHost());
-            Log.e("myTag", e.getMessage());
+            Log.e("myTAG", "[SettingsDialog] Failed to connect to " + connection.getHost());
+            Log.e("myTAG", e.getMessage());
             xmppClient.setConnection(null);
         }
         try {
-            Log.i("myTag", "Logged in as " + connection.getUser());
+            Log.i("myTAG", "Logged in as " + connection.getUser());
 
             // Set the status to available
             Presence presence = new Presence(Presence.Type.available);
@@ -74,7 +74,7 @@ public class SettingsDialog extends Dialog implements android.view.View.OnClickL
             xmppClient.setConnection(connection);
         } catch (SmackException e) {
             e.printStackTrace();
-            Log.e("myTag", e.getMessage());
+            Log.e("myTAG", e.getMessage());
         }
         dismiss();
     }

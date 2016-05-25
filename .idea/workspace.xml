@@ -5,8 +5,8 @@
       <filter>
         <option name="logLevel" value="verbose" />
         <option name="logMessagePattern" value="" />
-        <option name="logTagPattern" value="myTag" />
-        <option name="name" value="myTag" />
+        <option name="logTagPattern" value="myTAG" />
+        <option name="name" value="myTAG" />
         <option name="packageNamePattern" value="" />
         <option name="pid" value="" />
       </filter>
@@ -22,18 +22,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea88374-5639-4165-afb4-c45f2f471262" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/RegistrationDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/XMPPClient$2$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/XMPPClient$4$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/XMPPClient$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/pre-dexed/debug/smack-extensions-4.1.0-1c83285da22b7295b7641ce81964a8e77da0d4cb.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/RegistrationDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/res/merged/debug/layout/dialog_registration.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XMPPApp/src/main/res/layout/dialog_registration.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/smack_extensions_4_1_0.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/XMPPClient$3$1.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/R$id.class" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/R$layout.class" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/R$string.class" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/R.class" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/SettingsDialog.class" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/SettingsDialog.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/outputs/apk/XMPPApp-debug-unaligned.apk" afterPath="$PROJECT_DIR$/XMPPApp/build/outputs/apk/XMPPApp-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/outputs/apk/XMPPApp-debug.apk" afterPath="$PROJECT_DIR$/XMPPApp/build/outputs/apk/XMPPApp-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/XMPPClient$1$1.class" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/XMPPClient$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/XMPPClient$1.class" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/XMPPClient$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/XMPPClient$2.class" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/XMPPClient$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/XMPPClient$3.class" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/XMPPClient$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/XMPPClient.class" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/classes/debug/org/apache/android/xmpp/XMPPClient.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/dex/debug/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/generated/source/r/debug/org/apache/android/xmpp/R.java" afterPath="$PROJECT_DIR$/XMPPApp/build/generated/source/r/debug/org/apache/android/xmpp/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/SettingsDialog.java" afterPath="$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/SettingsDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/XMPPApp.iml" afterPath="$PROJECT_DIR$/XMPPApp/XMPPApp.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/XMPPClient.java" afterPath="$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/XMPPClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build.gradle" afterPath="$PROJECT_DIR$/XMPPApp/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/res/merged/debug/layout/main.xml" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/res/merged/debug/layout/main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/src/main/res/layout/main.xml" afterPath="$PROJECT_DIR$/XMPPApp/src/main/res/layout/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/res/merged/debug/layout/settings.xml" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/res/merged/debug/layout/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/src/main/res/layout/settings.xml" afterPath="$PROJECT_DIR$/XMPPApp/src/main/res/layout/settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMPPApp/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/XMPPApp/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="XMPP.iws" />
@@ -50,16 +75,36 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="XMPP" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="XMPP" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SettingsDialog.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/SettingsDialog.java">
+      <file leaf-file-name="RegistrationDialog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/RegistrationDialog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47959185">
-              <caret line="71" column="68" selection-start-line="71" selection-start-column="59" selection-end-line="71" selection-end-column="68" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,21 +112,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="XMPPClient.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="XMPPClient.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/XMPPClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="99" column="35" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="35" />
+            <state vertical-scroll-proportion="2.1619048">
+              <caret line="159" column="31" selection-start-line="159" selection-start-column="31" selection-end-line="159" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1859#2125#0" expanded="true" />
-                <element signature="e#1963#2099#0" expanded="true" />
-                <element signature="e#2098#2099#0" expanded="true" />
-                <element signature="e#2124#2125#0" expanded="true" />
-                <element signature="e#2276#3033#0" expanded="true" />
-                <element signature="e#3032#3033#0" expanded="true" />
-                <element signature="e#3471#4435#0" expanded="true" />
-                <element signature="e#4434#4435#0" expanded="true" />
+                <element signature="e#2707#2985#0" expanded="true" />
+                <element signature="e#2811#2959#0" expanded="true" />
+                <element signature="e#2958#2959#0" expanded="true" />
+                <element signature="e#2984#2985#0" expanded="true" />
+                <element signature="e#4350#5235#0" expanded="true" />
+                <element signature="e#4994#5178#0" expanded="true" />
+                <element signature="e#5177#5178#0" expanded="true" />
+                <element signature="e#5234#5235#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1183,7 +1228,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4390801096173" />
+        <entry key="$PROJECT_DIR$" value="4391321436180" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1363,6 +1408,7 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-android/4.1.0/3da1ad907fe8eb0db80471b8837d3e51690fe13c/smack-android-4.1.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-tcp/4.1.0/b5043991d7ed52da15089fcfcbca1dd862d1af42/smack-tcp-4.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-extensions/4.1.0/b0968f9b209feb2f51d1a1e72238989271750625/smack-extensions-4.1.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-resolver-minidns/4.1.0/5b8783270e55f49937492b23df34993c4e51c8d7/smack-resolver-minidns-4.1.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-sasl-provided/4.1.0/74422a92b7bba8eb633ceecdb017530b67451731/smack-sasl-provided-4.1.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-im/4.1.0/4b6d736ad02f64ba54f4a5712a4a453a2c3848b1/smack-im-4.1.0.jar" />
@@ -1509,11 +1555,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/XMPPApp/build.gradle" />
         <option value="$PROJECT_DIR$/XMPPApp/src/main/res/layout/settings.xml" />
+        <option value="$PROJECT_DIR$/XMPPApp/build.gradle" />
+        <option value="$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/SettingsDialog.java" />
+        <option value="$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/RegistrationDialog.java" />
         <option value="$PROJECT_DIR$/XMPPApp/src/main/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/XMPPClient.java" />
-        <option value="$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/SettingsDialog.java" />
       </list>
     </option>
   </component>
@@ -1521,8 +1568,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
-    <option name="width" value="1360" />
+    <option name="y" value="52" />
+    <option name="width" value="1349" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1548,6 +1595,28 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XMPP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XMPP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XMPP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1570,61 +1639,30 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XMPP" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XMPPApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xmpp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XMPP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XMPP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XMPP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="88b2ce66" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_S_API_23" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.apache.android.xmpp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/XMPPApp/src/main/res/layout" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.XMPPApp">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -1786,14 +1824,14 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="Please select a project..." />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="Please select a project..." />
       <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="Cloud configuration not specified" />
       <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="Cloud configuration not specified" />
       <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
       <method />
     </configuration>
@@ -1814,6 +1852,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6ea88374-5639-4165-afb4-c45f2f471262" name="Default" comment="" />
@@ -1821,33 +1862,40 @@
       <option name="number" value="Default" />
       <updated>1463651180254</updated>
     </task>
+    <task id="LOCAL-00001" summary="minor changes">
+      <created>1464009264628</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1464009264628</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1360" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="52" width="1349" height="744" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26179606" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26170376" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.75541794" sideWeight="0.49695587" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917318" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14886731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32817337" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.498452" sideWeight="0.5030441" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41262135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.628483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25799087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21181887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1890,11 +1938,71 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor changes" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/SettingsDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/XMPPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="99" column="35" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2707#2985#0" expanded="true" />
+            <element signature="e#2811#2959#0" expanded="true" />
+            <element signature="e#2958#2959#0" expanded="true" />
+            <element signature="e#2984#2985#0" expanded="true" />
+            <element signature="e#4350#5235#0" expanded="true" />
+            <element signature="e#4994#5178#0" expanded="true" />
+            <element signature="e#5177#5178#0" expanded="true" />
+            <element signature="e#5234#5235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/SettingsDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/XMPPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="99" column="35" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2707#2985#0" expanded="true" />
+            <element signature="e#2811#2959#0" expanded="true" />
+            <element signature="e#2958#2959#0" expanded="true" />
+            <element signature="e#2984#2985#0" expanded="true" />
+            <element signature="e#4350#5235#0" expanded="true" />
+            <element signature="e#4994#5178#0" expanded="true" />
+            <element signature="e#5177#5178#0" expanded="true" />
+            <element signature="e#5234#5235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/SettingsDialog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1911,14 +2019,14 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1859#2125#0" expanded="true" />
-            <element signature="e#1963#2099#0" expanded="true" />
-            <element signature="e#2098#2099#0" expanded="true" />
-            <element signature="e#2124#2125#0" expanded="true" />
-            <element signature="e#2276#3033#0" expanded="true" />
-            <element signature="e#3032#3033#0" expanded="true" />
-            <element signature="e#3471#4435#0" expanded="true" />
-            <element signature="e#4434#4435#0" expanded="true" />
+            <element signature="e#2707#2985#0" expanded="true" />
+            <element signature="e#2811#2959#0" expanded="true" />
+            <element signature="e#2958#2959#0" expanded="true" />
+            <element signature="e#2984#2985#0" expanded="true" />
+            <element signature="e#4350#5235#0" expanded="true" />
+            <element signature="e#4994#5178#0" expanded="true" />
+            <element signature="e#5177#5178#0" expanded="true" />
+            <element signature="e#5234#5235#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1939,14 +2047,14 @@
           <caret line="77" column="48" selection-start-line="77" selection-start-column="46" selection-end-line="77" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1859#2125#0" expanded="true" />
-            <element signature="e#1963#2099#0" expanded="true" />
-            <element signature="e#2098#2099#0" expanded="true" />
-            <element signature="e#2124#2125#0" expanded="true" />
-            <element signature="e#2276#3033#0" expanded="true" />
-            <element signature="e#3032#3033#0" expanded="true" />
-            <element signature="e#3471#4435#0" expanded="true" />
-            <element signature="e#4434#4435#0" expanded="true" />
+            <element signature="e#2707#2985#0" expanded="true" />
+            <element signature="e#2811#2959#0" expanded="true" />
+            <element signature="e#2958#2959#0" expanded="true" />
+            <element signature="e#2984#2985#0" expanded="true" />
+            <element signature="e#4350#5235#0" expanded="true" />
+            <element signature="e#4994#5178#0" expanded="true" />
+            <element signature="e#5177#5178#0" expanded="true" />
+            <element signature="e#5234#5235#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1995,26 +2103,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-core/4.1.0/ce2337bda35f244bd54e3b65efa6b76e0190d578/smack-core-4.1.0-sources.jar!/org/jivesoftware/smack/AbstractXMPPConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33266532">
-          <caret line="398" column="29" selection-start-line="398" selection-start-column="29" selection-end-line="398" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47472528">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/XMPPDemosApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61865795">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-core/4.1.0/ce2337bda35f244bd54e3b65efa6b76e0190d578/smack-core-4.1.0-sources.jar!/org/jivesoftware/smack/packet/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-core/4.1.0/ce2337bda35f244bd54e3b65efa6b76e0190d578/smack-core-4.1.0-sources.jar!/org/jivesoftware/smack/XMPPConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21088435">
+          <caret line="101" column="28" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Android/Sdk/platforms/android-21/android.jar!/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36981133">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/res/layout/multi_line_list_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12307692">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Android/Sdk/platforms/android-21/android.jar!/android/app/Dialog.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4641577">
+          <caret line="87" column="19" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
+          <folding>
+            <element signature="e#2499#2500#0" expanded="true" />
+            <element signature="e#2550#2551#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/res/layout/settings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
+        <state vertical-scroll-proportion="-6.290323">
           <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Android/Sdk/platforms/android-21/android.jar!/android/view/Window.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3673835">
+          <caret line="141" column="16" selection-start-line="141" selection-start-column="16" selection-end-line="141" selection-end-column="16" />
+          <folding>
+            <element signature="e#4712#4713#0" expanded="true" />
+            <element signature="e#4763#4764#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Android/Sdk/platforms/android-21/android.jar!/android/accounts/AccountManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19354838">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-core/4.1.0/ce2337bda35f244bd54e3b65efa6b76e0190d578/smack-core-4.1.0-sources.jar!/org/jivesoftware/smack/AbstractXMPPConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="933" column="15" selection-start-line="933" selection-start-column="7" selection-end-line="933" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-extensions/4.1.0/f8891ff3d8baf8a6121ce22a766c5f2902a9a9c1/smack-extensions-4.1.0-sources.jar!/org/jivesoftware/smackx/iqregister/AccountManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33995584">
+          <caret line="259" column="83" selection-start-line="259" selection-start-column="64" selection-end-line="259" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/res/layout/dialog_registration.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2024,35 +2219,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XMPPApp/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.16129032">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.5032467">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/XMPPDemosApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61865795">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Android/Sdk/platforms/android-21/android.jar!/android/app/Dialog.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2278481">
-          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
-          <folding>
-            <element signature="e#1271#1272#0" expanded="true" />
-            <element signature="e#1322#1323#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/res/layout/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0664272">
-          <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.6137072">
+          <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -2060,68 +2236,56 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/res/layout/multi_line_list_item.xml">
+    <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/SettingsDialog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12926391">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-core/4.1.0/ce2337bda35f244bd54e3b65efa6b76e0190d578/smack-core-4.1.0-sources.jar!/org/jivesoftware/smack/packet/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-core/4.1.0/ce2337bda35f244bd54e3b65efa6b76e0190d578/smack-core-4.1.0-sources.jar!/org/jivesoftware/smack/XMPPConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21088435">
-          <caret line="101" column="28" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Android/Sdk/platforms/android-21/android.jar!/java/util/ArrayList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36981133">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.8044355">
+          <caret line="56" column="41" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="41" />
           <folding>
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/RegistrationDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-extensions/4.1.0/f8891ff3d8baf8a6121ce22a766c5f2902a9a9c1/smack-extensions-4.1.0-sources.jar!/org/jivesoftware/smackx/muc/InvitationListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3326613">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-extensions/4.1.0/f8891ff3d8baf8a6121ce22a766c5f2902a9a9c1/smack-extensions-4.1.0-sources.jar!/org/jivesoftware/smackx/muc/MultiUserChat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76814514">
+          <caret line="128" column="4" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/XMPPClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="99" column="35" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="35" />
+        <state vertical-scroll-proportion="2.1619048">
+          <caret line="159" column="31" selection-start-line="159" selection-start-column="31" selection-end-line="159" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1859#2125#0" expanded="true" />
-            <element signature="e#1963#2099#0" expanded="true" />
-            <element signature="e#2098#2099#0" expanded="true" />
-            <element signature="e#2124#2125#0" expanded="true" />
-            <element signature="e#2276#3033#0" expanded="true" />
-            <element signature="e#3032#3033#0" expanded="true" />
-            <element signature="e#3471#4435#0" expanded="true" />
-            <element signature="e#4434#4435#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XMPPApp/src/main/java/org/apache/android/xmpp/SettingsDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47959185">
-          <caret line="71" column="68" selection-start-line="71" selection-start-column="59" selection-end-line="71" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#2707#2985#0" expanded="true" />
+            <element signature="e#2811#2959#0" expanded="true" />
+            <element signature="e#2958#2959#0" expanded="true" />
+            <element signature="e#2984#2985#0" expanded="true" />
+            <element signature="e#4350#5235#0" expanded="true" />
+            <element signature="e#4994#5178#0" expanded="true" />
+            <element signature="e#5177#5178#0" expanded="true" />
+            <element signature="e#5234#5235#0" expanded="true" />
           </folding>
         </state>
       </provider>
